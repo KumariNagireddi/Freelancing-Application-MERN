@@ -1,4 +1,4 @@
-# Freelancing-Application-MERNNo problem! Here's what I’ll do:
+# Freelancing-Application-MERN
 
 ---💼 Freelance Finder – MERN Stack Freelancing Platform
 
@@ -78,31 +78,27 @@ Git
 Code Editor (e.g., VS Code)
 
 📦 Backend Setup
-
-bash
+-----
 cd backend
 npm install
 
 Create a `.env` file with:
 
-```env
 PORT=5000
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret
-```
 
 Then start the backend:
 
-```bash
 npm start
 
  🖥️ Frontend
-```bash
+ ----
 cd frontend
 npm install
 npm start
-
-Visit `http://localhost:3000`
+Start the React development server
+npm start Visit: http://localhost:3000 to use the app.
 
 🔮 Future Enhancements
 
