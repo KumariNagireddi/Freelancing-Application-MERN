@@ -37,12 +37,6 @@ Freelance Finder is a full-stack application for managing freelance work. It con
 | Others       | dotenv, Moment.js, ESLint                   |
 
 ---
-Here's the **corrected and properly indented version** of your 📂 **Project Structure – FreelanceApp-MERN** section, formatted to look clean in a README:
-
----
-Here's the **corrected and properly indented version** of your 📂 **Project Structure – FreelanceApp-MERN** section, formatted to look clean in a README:
-
----
 
 ### 📂 Project Structure – FreelanceApp-MERN
 
