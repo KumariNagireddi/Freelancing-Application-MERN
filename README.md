@@ -44,8 +44,9 @@ Freelance Finder is a full-stack application for managing freelance work. It con
 | Others       | dotenv, Moment.js, ESLint                   |
 
 ---
-
-## 📂 Project Structure– FreelanceApp-MERN
+📂 Project Structure – FreelanceApp-MERN
+csharp
+Copy code
 FreelanceApp-MERN/
 ├── backend/                     # Node.js + Express.js server
 │   ├── controllers/             # Route logic
@@ -71,8 +72,12 @@ FreelanceApp-MERN/
 ├── README.md                    # Project description (see below)
 └── .gitignore                   # Ignore node_modules, etc.
 
-
 ⚙️ Setup Instructions
+
+Prerequisites Node.js (v16+ recommended)
+MongoDB (local or Atlas)
+Git
+Code Editor (e.g., VS Code)
 
 📦 Backend Setup
 
