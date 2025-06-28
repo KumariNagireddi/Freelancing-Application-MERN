@@ -26,7 +26,7 @@ Freelance Finder is a full-stack application for managing freelance work. It con
 - Approve/Block users
 - Moderate job listings
 - Manage platform content and integrity
-
+------
 ### 🧱 Tech Stack
 
 | Layer        | Technology                                 |
