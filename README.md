@@ -1,12 +1,5 @@
 # Freelancing-Application-MERNNo problem! Here's what I’ll do:
 
-I'll show you **the entire folder structure and README.md content in plain text** so you can:
-
-1. **Copy-paste** it directly into your project.
-2. Optionally create a `zip` yourself on your system.
-
----
-
 ---💼 Freelance Finder – MERN Stack Freelancing Platform
 
 Freelance Finder is a full-stack application for managing freelance work. It connects clients with freelancers, allowing them to collaborate efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), it provides dashboards for users, clients, and admins.
@@ -75,6 +68,7 @@ FreelanceApp-MERN/
 │
 ├── README.md                    # Project documentation
 └── .gitignore                   # Ignore node_modules, env, etc.
+
 
 ⚙️ Setup Instructions
 
