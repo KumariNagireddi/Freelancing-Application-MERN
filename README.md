@@ -1,6 +1,6 @@
 # Freelancing-Application-MERN
 
----💼 Freelance Finder – MERN Stack Freelancing Platform
+📅 Freelance Finder – MERN Stack Freelancing Platform
 
 Freelance Finder is a full-stack application for managing freelance work. It connects clients with freelancers, allowing them to collaborate efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), it provides dashboards for users, clients, and admins.
 
@@ -25,7 +25,7 @@ Freelance Finder is a full-stack application for managing freelance work. It con
 - Moderate job listings
 - Manage platform content and integrity
 
- 🧱 Tech Stack
+### 🧱 Tech Stack
 
 | Layer        | Technology                                 |
 |-------------|---------------------------------------------|
@@ -73,20 +73,27 @@ FreelanceApp-MERN/
 ⚙️ Setup Instructions
 
 Prerequisites Node.js (v16+ recommended)
+
 MongoDB (local or Atlas)
+
 Git
+
 Code Editor (e.g., VS Code)
 
 📦 Backend Setup
 -----
 cd backend
+
 Install React app dependencies
+
 npm install
 
 Create a `.env` file with:
 
 PORT=5000
+
 MONGO_URI=your_mongo_uri
+
 JWT_SECRET=your_jwt_secret
 
 Then start the backend:
@@ -96,9 +103,13 @@ npm start
  🖥️ Frontend
  ----
 cd frontend
+
 npm install
+
 npm start
+
 Start the React development server
+
 npm start Visit: http://localhost:3000 to use the app.
 
 🔮 Future Enhancements
