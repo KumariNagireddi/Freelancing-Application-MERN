@@ -80,6 +80,7 @@ Code Editor (e.g., VS Code)
 📦 Backend Setup
 -----
 cd backend
+Install React app dependencies
 npm install
 
 Create a `.env` file with:
@@ -101,7 +102,7 @@ Start the React development server
 npm start Visit: http://localhost:3000 to use the app.
 
 🔮 Future Enhancements
-
+----------
 * 💬 Chat between client and freelancer
 * 💸 Payment gateway integration
 * 📎 File sharing system
